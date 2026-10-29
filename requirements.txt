@@ -1,0 +1,17 @@
+# ==============================================================================
+# The "Reconstruction Boom" Reality Check — Project Dependencies
+# Compatible with Python 3.10+ | Local VS Code & Streamlit Community Cloud
+# ==============================================================================
+
+# Interactive Web Dashboard Framework
+streamlit>=1.32.0,<2.0.0
+
+# Data Manipulation & Quantitative Analysis
+pandas>=2.1.0,<3.0.0
+numpy>=1.26.0,<3.0.0
+
+# Interactive Financial & Time-Series Visualization
+plotly>=5.18.0,<6.0.0
+
+# Market Data Fetching (Yahoo Finance API Wrapper)
+yfinance>=0.2.36,<1.0.0
