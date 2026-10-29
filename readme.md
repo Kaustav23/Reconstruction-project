@@ -1,4 +1,5 @@
-# The Reconstruction Boom Reality Check: Macroeconomic Capital Transmission, Sovereign Stabilization Lags, and Private-Sector Equity Timing Across Natural Disasters and Geopolitical Conflicts
+# The Reconstruction Boom Reality Check: Macroeconomic Capital Transmission, Sovereign Stabilization Lags, and Private-Sector Equity Timing Across Natural Disasters and Geopolitical Conflicts 
+-- Kaustav Goswami(Maker of this project)
 
 ## Executive Summary and Quantitative Reality Check
 
